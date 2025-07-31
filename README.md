@@ -79,7 +79,7 @@
 	- App/Text/Email
 - What will warrant a notification?
 
-## Will we need notifications
+### Will we need notifications
 
 
 ### Notification Method
